@@ -1,0 +1,19 @@
+<app-secion></app-secion>
+<app-carrousel></app-carrousel>
+
+<div class="b-example-divider"></div>
+<div class="album py-5 bg-body-tertiary">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+            <!-- <app-galeria [galeria]="galerias[0]"></app-galeria>
+            <app-galeria [galeria]="galerias[1]"></app-galeria>
+            <app-galeria [galeria]="galerias[2]"></app-galeria> -->
+
+            <app-galeria *ngFor="let galeria of galerias" [galeria]="galeria"></app-galeria>
+
+        </div>
+    </div>
+</div>
+
+<div class="b-example-divider"></div>

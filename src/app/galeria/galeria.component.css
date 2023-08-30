@@ -1,0 +1,8 @@
+h1 {
+    background-color: grey;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: 700;
+    color: azure;
+    border: 3px solid #f70303;
+}

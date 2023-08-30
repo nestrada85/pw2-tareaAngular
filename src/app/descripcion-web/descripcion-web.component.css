@@ -1,0 +1,11 @@
+p {
+    margin: 100px 0px -50px 0px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    border: 3px solid #1612ea;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: #000000 1px 1px 5px 3px;
+    background-color: rgba(6, 113, 206, 0.76);
+    
+}

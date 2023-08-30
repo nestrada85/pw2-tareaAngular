@@ -1,0 +1,9 @@
+h1 {
+    font-size: 50px;
+    color: rgb(226, 17, 17);
+    letter-spacing: 3px;
+    font-weight: 700;
+    background-color: rgba(250, 235, 215, 0.612);
+    box-shadow: #ffffff 1px 1px 5px 3px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
